@@ -1,0 +1,1 @@
+//importa os dados com o redux e os expoem
